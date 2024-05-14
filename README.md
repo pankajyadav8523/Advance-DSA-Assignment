@@ -1,3 +1,4 @@
 # Advance-DSA-Assignment
 
-Here I have uploaded the algorithms for maximal point and making a project of burger simulation using different datastructure.
+I have uploaded algorithms for solving maximal point and class scheduling problems using the greedy technique. 
+Additionally, I have completed a project that simulates a burger restaurant, utilizing various data structures.
